@@ -1,9 +1,16 @@
 (function(){
 
-	angualr
+	angular
 	.module("turtleFacts")
-	.factory("quizMetric" QuizMetric);
-	function QuizMetric(){
-
+	.factory("quizMetrics", QuizMetrics);
+	function QuizMetrics(){
+		var quizObj = {
+			quizActive : false,
+			changeState : changeState
+		};
+			return quizObj;
+			function changeState(state) {
+				quizObj.quizActive = state;
 			}
+		}
 	})();
