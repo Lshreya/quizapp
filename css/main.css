@@ -31,3 +31,6 @@ cursor : pointer;
 width: 100%;
 height: auto;
 }
+.image-selected{
+	border: 3px solid #56afdc;
+}
