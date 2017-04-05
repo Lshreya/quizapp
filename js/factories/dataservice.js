@@ -75,7 +75,7 @@ var quizQuestions  = [
             text: "Which of these is the Green Turtle?",
             possibilities: [
                 {
-                    answer: "http://www.what-do-turtles-eat.com/wp-content/uploads/2014/10/Sea-Turtles-Habitat.jpg"
+                    answer: "images/greenseaturtle.jpg"
                 },
                 {
                     answer: "https://upload.wikimedia.org/wikipedia/commons/7/7f/Kemp's_Ridley_sea_turtle_nesting.JPG"
