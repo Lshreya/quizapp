@@ -55,16 +55,16 @@ var quizQuestions  = [
             text: "Which of these is the Alligator Snapping Turtle?",
             possibilities: [
                 {
-                    answer: "https://c1.staticflickr.com/3/2182/2399413165_bcc8031cac_z.jpg?zz=1"
+                    answer: "http://c1.staticflickr.com/3/2182/2399413165_bcc8031cac_z.jpg?zz=1"
                 },
                 {
                     answer: "http://images.nationalgeographic.com/wpf/media-live/photos/000/006/cache/ridley-sea-turtle_688_600x450.jpg"
                 },
                 {
-                    answer: "https://static-secure.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/8/13/1313246505515/Leatherback-turtle-007.jpg"
+                    answer: "http://static-secure.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/8/13/1313246505515/Leatherback-turtle-007.jpg"
                 },
                 {
-                    answer: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Alligator_snapping_turtle_-_Geierschildkr%C3%B6te_-_Alligatorschildkr%C3%B6te_-_Macrochelys_temminckii_01.jpg"
+                    answer: "http://upload.wikimedia.org/wikipedia/commons/e/e3/Alligator_snapping_turtle_-_Geierschildkr%C3%B6te_-_Alligatorschildkr%C3%B6te_-_Macrochelys_temminckii_01.jpg"
                 }
             ],
             selected: null,
@@ -75,13 +75,13 @@ var quizQuestions  = [
             text: "Which of these is the Green Turtle?",
             possibilities: [
                 {
-                    answer: "images/seaturtle.jpg"
+                    answer: "images/greenseaturtle.jpg"
                 },
                 {
-                    answer: "https://upload.wikimedia.org/wikipedia/commons/7/7f/Kemp's_Ridley_sea_turtle_nesting.JPG"
+                    answer: "http://upload.wikimedia.org/wikipedia/commons/7/7f/Kemp's_Ridley_sea_turtle_nesting.JPG"
                 },
                 {
-                    answer: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Alligator_snapping_turtle_-_Geierschildkr%C3%B6te_-_Alligatorschildkr%C3%B6te_-_Macrochelys_temminckii_01.jpg"
+                    answer: "http://upload.wikimedia.org/wikipedia/commons/e/e3/Alligator_snapping_turtle_-_Geierschildkr%C3%B6te_-_Alligatorschildkr%C3%B6te_-_Macrochelys_temminckii_01.jpg"
                 },
                 {
                     answer: "http://assets.worldwildlife.org/photos/163/images/carousel_small/SCR_290360hawskbill-why-matter-LG.jpg?1345565532"
@@ -164,7 +164,7 @@ var quizQuestions  = [
                     answer: "http://images.nationalgeographic.com/wpf/media-live/photos/000/006/cache/ridley-sea-turtle_688_600x450.jpg"
                 },
                 {
-                    answer: "https://upload.wikimedia.org/wikipedia/commons/7/7f/Kemp's_Ridley_sea_turtle_nesting.JPG"
+                    answer: "http://upload.wikimedia.org/wikipedia/commons/7/7f/Kemp's_Ridley_sea_turtle_nesting.JPG"
                 }
             ],
             selected: null,
@@ -232,7 +232,7 @@ var quizQuestions  = [
         },
         {
             type: "Leatherback Turtle",
-            image_url: "https://static-secure.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/8/13/1313246505515/Leatherback-turtle-007.jpg",
+            image_url: "http://static-secure.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/8/13/1313246505515/Leatherback-turtle-007.jpg",
             locations: "All tropical and subtropical oceans",
             size: "Up to 2m, up to 900kg",
             lifespan: "45 years",
@@ -250,7 +250,7 @@ var quizQuestions  = [
         },
         {
             type: "Alligator Snapping Turtle",
-            image_url: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Alligator_snapping_turtle_-_Geierschildkr%C3%B6te_-_Alligatorschildkr%C3%B6te_-_Macrochelys_temminckii_01.jpg",
+            image_url: "http://upload.wikimedia.org/wikipedia/commons/e/e3/Alligator_snapping_turtle_-_Geierschildkr%C3%B6te_-_Alligatorschildkr%C3%B6te_-_Macrochelys_temminckii_01.jpg",
             locations: "Along the Atlantic Coast of USA",
             size: "around 60cm, up to 100kg",
             lifespan: "20-70 years",
@@ -259,7 +259,7 @@ var quizQuestions  = [
         },
         {
             type: "Kemp's Ridley Sea Turtle",
-            image_url: "https://upload.wikimedia.org/wikipedia/commons/7/7f/Kemp's_Ridley_sea_turtle_nesting.JPG",
+            image_url: "http://upload.wikimedia.org/wikipedia/commons/7/7f/Kemp's_Ridley_sea_turtle_nesting.JPG",
             locations: "Coastal areas of the North Atlantic",
             size: "65cm, up to 45kg",
             lifespan: "Around 50 years",
@@ -277,7 +277,7 @@ var quizQuestions  = [
         },
         {
             type: "Eastern Snake Necked Turtle",
-            image_url: "https://c1.staticflickr.com/3/2182/2399413165_bcc8031cac_z.jpg?zz=1",
+            image_url: "http://c1.staticflickr.com/3/2182/2399413165_bcc8031cac_z.jpg?zz=1",
             locations: "Eastern Australia",
             size: "Up to 30cm",
             lifespan: "25 years",
